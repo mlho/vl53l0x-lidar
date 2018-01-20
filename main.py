@@ -1,0 +1,3 @@
+import lidar
+
+lidar.main()
